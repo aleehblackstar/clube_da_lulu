@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900422892355",
+    "project_id": "clube-da-lulu-56d17",
+    "storage_bucket": "clube-da-lulu-56d17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900422892355:android:66c2003ad1e0ae0b108df6",
+        "android_client_info": {
+          "package_name": "com.clubedalulu.clube_da_lulu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900422892355-d3m2et3bpq7ftcvile9i9f7vib8g3ab8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnRMsZmnYMcUDFgvpSxlDV59fmCTTpuPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900422892355-d3m2et3bpq7ftcvile9i9f7vib8g3ab8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
